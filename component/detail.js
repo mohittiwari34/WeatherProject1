@@ -861,4 +861,5 @@ function getWindDirection(deg) {
   return dirs[Math.round(deg / 45) % 8];
 }
 //this is it
+//helo mohit
 export default Detail;
