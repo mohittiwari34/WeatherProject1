@@ -860,5 +860,5 @@ function getWindDirection(deg) {
   const dirs = ["North", "Northeast", "East", "Southeast", "South", "Southwest", "West", "Northwest"];
   return dirs[Math.round(deg / 45) % 8];
 }
-
+//this is it
 export default Detail;
