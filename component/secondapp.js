@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 export default function Secondd() {
   const [backgroundIndex, setBackgroundIndex] = useState(0);
-  
+  const [index,setIndex]=useState(null);
   const backgrounds = [
     "https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=2070",
     "https://images.unsplash.com/photo-1597220669165-d612ddd7106d?q=80&w=2070",
