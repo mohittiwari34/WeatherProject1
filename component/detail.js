@@ -863,4 +863,5 @@ function getWindDirection(deg) {
 //this is it
 //helo mohit
 //ho are you this moment j k
+//glo
 export default Detail;
