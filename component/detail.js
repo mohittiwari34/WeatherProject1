@@ -863,5 +863,5 @@ function getWindDirection(deg) {
 //this is it
 //helo mohit
 //ho are you this moment j k
-//git vanc aur north react node express qustion ert r
+//git vanc aur north react node express qustion ert reddis
 export default Detail;
