@@ -14,6 +14,7 @@ export default function Secondd() {
   ];
 
   // Optional: Auto-cycle backgrounds
+  //ui ux
   useEffect(() => {
     const interval = setInterval(() => {
       setBackgroundIndex((prev) => (prev + 1) % backgrounds.length);
